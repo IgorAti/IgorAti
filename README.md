@@ -9,10 +9,10 @@ Experiência em consultoria Estratégica e de Gestão, atuando com diagnósticos
 
 ##### Você também me encontra em:
 
-<a href="https://www.linkedin.com/in/igor-abib-a2442622">
+<a href="https://www.linkedin.com/in/igor-abib-a2442622" title ="https://www.linkedin.com/in/igor-abib-a2442622">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:agentavery@sample.com">
+<a href="mailto:agentavery@sample.com" title = "igorabib@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
