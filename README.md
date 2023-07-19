@@ -10,7 +10,7 @@ Realização de análise de dados, foco em gestão de negócios, processos e an�
 
 ##### Conhecimentos:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width="50" height="50" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://media.istockphoto.com/id/868619360/vector/sql-database-icon-design-ui-or-ux-app.jpg?b=1&s=612x612&w=0&k=20&c=umKECtl76lzoHfdERor9nQVaukgUC-QlNheiCPT1Cc4=" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
 </div>                    
 
